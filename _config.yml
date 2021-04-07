@@ -1,2 +1,3 @@
 name: Shannon Reault, Clark GIS
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
